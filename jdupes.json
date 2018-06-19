@@ -1,4 +1,4 @@
-[{
+{
     "version": "1.10.1",
     "homepage": "https://github.com/jbruchon/jdupes",
     "license": "MIT Licence",
@@ -12,5 +12,6 @@
         "32bit": {
             "url": "https://github.com/jbruchon/jdupes/releases/download/v1.10.1/jdupes-1.10.1_win32.zip",
             "hash": "5331568901f68314b37bf15d87fe450a589ece75edd50ed72bc20bcf01c30feb"
-            },
-}]
+            }
+        }
+}
