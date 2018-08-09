@@ -47,4 +47,3 @@
     "bin": "usr\\bin\\rsync.exe",
     "notes": "NOTE: local paths with a leading '/' or internal ':' must instead be in Cygwin cygpath format (eg, '/c/...')"
 }
-
